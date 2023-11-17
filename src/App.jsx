@@ -1,6 +1,6 @@
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
-import Create from "./components/users/create.jsx";
+import Create from "./components/users/Create";
 import Index from "./components/users/Index.jsx";
 import Details from "./components/users/Details";
 function App() {
